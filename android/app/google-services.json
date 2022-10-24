@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "697620595307",
+    "project_id": "liveshopper-cf705",
+    "storage_bucket": "liveshopper-cf705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697620595307:android:0cdbb73fe984f3e9b7e72e",
+        "android_client_info": {
+          "package_name": "com.example.liveshopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697620595307-7lu2muudv4j3v5lrhoif08cm66rfrdhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liveshopper",
+            "certificate_hash": "0e0f2cd44c96830b59efe7f08798d474e181622e"
+          }
+        },
+        {
+          "client_id": "697620595307-oov0re1qa8v5619t8ere619a4r04otjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB906s5PSZ5DJtxjVdAbCRcrQDwjEjkjG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697620595307-oov0re1qa8v5619t8ere619a4r04otjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
